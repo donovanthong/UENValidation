@@ -40,10 +40,9 @@ bool checkfirstchar(string UENInput) {
 		if (UENInput[0] == 'R' == false) {}
 		else if (UENInput[0] == 'T' == false) {}
 		else if (UENInput[0] == 'S' == false)
-		
 			return false;
 	return true;
-	}
+}
 
 bool checkPQ(string UENInput) {
 	for (int i = 3; i < 5; i++)
