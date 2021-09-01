@@ -1,9 +1,13 @@
 # UENValidation
 
 1) INSTALLING WXWIDGETS
+2) 
 Install WXWidgets from https://www.wxwidgets.org/
+
 After Installation extract the file
+
 Open the extracted file and navigate to build\msw\wx_vc16.sln
+
 Open wx_vc16.sln and it should bring you to visual studios
 Right click on Solution'wx_vc16'(24 out of 24 projects) and select Batch Build
 On the pop-up, click on 'select all', then click 'build'. (Repeat this if any error occurs)
