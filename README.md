@@ -1,7 +1,7 @@
 # UENValidation
 
 1) INSTALLING WXWIDGETS
-2) 
+
 Install WXWidgets from https://www.wxwidgets.org/
 
 After Installation extract the file
